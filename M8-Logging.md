@@ -34,8 +34,8 @@ The **Home Technology software** is currently provided and hosted by third parti
   - Provide configurable real-time alerting based on owner needs.
   
 - Include a relational database in the solution to hold homeowner preferences and settings.
-  - System must be scalable.
-  - Redundancy is critical.
+- System must be scalable.
+- Redundancy is critical.
   
 - The new unified website will be developed in house and hosted on Linux.  This website will be used to view monitors and change preferences for items such as temperature or alert thresholds. Loads can vary widely, and the system must be able to scale quickly.
 
